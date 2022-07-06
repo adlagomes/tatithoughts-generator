@@ -1,0 +1,17 @@
+footer {
+  font-size: 1.3rem;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  bottom: 2rem;
+  left: 0;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #ff7afa;
+}
